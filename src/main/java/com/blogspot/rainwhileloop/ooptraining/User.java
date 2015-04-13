@@ -1,4 +1,4 @@
-package com.blogspot.rainwhileloop.ooptraining.encapsulation;
+package com.blogspot.rainwhileloop.ooptraining;
 
 /**
  *
