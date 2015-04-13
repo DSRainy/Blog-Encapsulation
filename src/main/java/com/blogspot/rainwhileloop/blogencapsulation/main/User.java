@@ -1,4 +1,6 @@
-package com.blogspot.rainwhileloop.blogencapsulation;
+package com.blogspot.rainwhileloop.blogencapsulation.main;
+
+import com.blogspot.rainwhileloop.blogencapsulation.computer.Computer;
 
 /**
  *
